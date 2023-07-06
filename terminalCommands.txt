@@ -1,0 +1,411 @@
+~$ sage B190670CS_Reuben_1_Enc.sage
+Enter the plaintext to be Encrypted: Reuben
+Enter the value of a: 3
+Enter the value of b: 1
+Encrypted Cyphertext:  ANJENO
+~$ sage B190670CS_Reuben_1_Dec.sage
+Enter the Ciphertext to be Decrypted: ANJENO
+Enter the value of a: 3
+Enter the value of b: 1
+Decrypted Plaintext:  REUBEN
+~$ sage B190670CS_Reuben_1_Crypt.sage
+Enter the Ciphertext to be Decrypted: ANJENO
+Decrypted Plaintext:  ANJENO
+Decrypted Plaintext:  ZMIDMN
+Decrypted Plaintext:  YLHCLM
+Decrypted Plaintext:  XKGBKL
+Decrypted Plaintext:  WJFAJK
+Decrypted Plaintext:  VIEZIJ
+Decrypted Plaintext:  UHDYHI
+Decrypted Plaintext:  TGCXGH
+Decrypted Plaintext:  SFBWFG
+Decrypted Plaintext:  REAVEF
+Decrypted Plaintext:  QDZUDE
+Decrypted Plaintext:  PCYTCD
+Decrypted Plaintext:  OBXSBC
+Decrypted Plaintext:  NAWRAB
+Decrypted Plaintext:  MZVQZA
+Decrypted Plaintext:  LYUPYZ
+Decrypted Plaintext:  KXTOXY
+Decrypted Plaintext:  JWSNWX
+Decrypted Plaintext:  IVRMVW
+Decrypted Plaintext:  HUQLUV
+Decrypted Plaintext:  GTPKTU
+Decrypted Plaintext:  FSOJST
+Decrypted Plaintext:  ERNIRS
+Decrypted Plaintext:  DQMHQR
+Decrypted Plaintext:  CPLGPQ
+Decrypted Plaintext:  BOKFOP
+Decrypted Plaintext:  ANDKNW
+Decrypted Plaintext:  REUBEN
+Decrypted Plaintext:  IVLSVE
+Decrypted Plaintext:  ZMCJMV
+Decrypted Plaintext:  QDTADM
+Decrypted Plaintext:  HUKRUD
+Decrypted Plaintext:  YLBILU
+Decrypted Plaintext:  PCSZCL
+Decrypted Plaintext:  GTJQTC
+Decrypted Plaintext:  XKAHKT
+Decrypted Plaintext:  OBRYBK
+Decrypted Plaintext:  FSIPSB
+Decrypted Plaintext:  WJZGJS
+Decrypted Plaintext:  NAQXAJ
+Decrypted Plaintext:  ERHORA
+Decrypted Plaintext:  VIYFIR
+Decrypted Plaintext:  MZPWZI
+Decrypted Plaintext:  DQGNQZ
+Decrypted Plaintext:  UHXEHQ
+Decrypted Plaintext:  LYOVYH
+Decrypted Plaintext:  CPFMPY
+Decrypted Plaintext:  TGWDGP
+Decrypted Plaintext:  KXNUXG
+Decrypted Plaintext:  BOELOX
+Decrypted Plaintext:  SFVCFO
+Decrypted Plaintext:  JWMTWF
+Decrypted Plaintext:  ANHGNI
+Decrypted Plaintext:  FSMLSN
+Decrypted Plaintext:  KXRQXS
+Decrypted Plaintext:  PCWVCX
+Decrypted Plaintext:  UHBAHC
+Decrypted Plaintext:  ZMGFMH
+Decrypted Plaintext:  ERLKRM
+Decrypted Plaintext:  JWQPWR
+Decrypted Plaintext:  OBVUBW
+Decrypted Plaintext:  TGAZGB
+Decrypted Plaintext:  YLFELG
+Decrypted Plaintext:  DQKJQL
+Decrypted Plaintext:  IVPOVQ
+Decrypted Plaintext:  NAUTAV
+Decrypted Plaintext:  SFZYFA
+Decrypted Plaintext:  XKEDKF
+Decrypted Plaintext:  CPJIPK
+Decrypted Plaintext:  HUONUP
+Decrypted Plaintext:  MZTSZU
+Decrypted Plaintext:  REYXEZ
+Decrypted Plaintext:  WJDCJE
+Decrypted Plaintext:  BOIHOJ
+Decrypted Plaintext:  GTNMTO
+Decrypted Plaintext:  LYSRYT
+Decrypted Plaintext:  QDXWDY
+Decrypted Plaintext:  VICBID
+Decrypted Plaintext:  ANFINC
+Decrypted Plaintext:  LYQTYN
+Decrypted Plaintext:  WJBEJY
+Decrypted Plaintext:  HUMPUJ
+Decrypted Plaintext:  SFXAFU
+Decrypted Plaintext:  DQILQF
+Decrypted Plaintext:  OBTWBQ
+Decrypted Plaintext:  ZMEHMB
+Decrypted Plaintext:  KXPSXM
+Decrypted Plaintext:  VIADIX
+Decrypted Plaintext:  GTLOTI
+Decrypted Plaintext:  REWZET
+Decrypted Plaintext:  CPHKPE
+Decrypted Plaintext:  NASVAP
+Decrypted Plaintext:  YLDGLA
+Decrypted Plaintext:  JWORWL
+Decrypted Plaintext:  UHZCHW
+Decrypted Plaintext:  FSKNSH
+Decrypted Plaintext:  QDVYDS
+Decrypted Plaintext:  BOGJOD
+Decrypted Plaintext:  MZRUZO
+Decrypted Plaintext:  XKCFKZ
+Decrypted Plaintext:  IVNQVK
+Decrypted Plaintext:  TGYBGV
+Decrypted Plaintext:  ERJMRG
+Decrypted Plaintext:  PCUXCR
+Decrypted Plaintext:  ANBMNQ
+Decrypted Plaintext:  XKYJKN
+Decrypted Plaintext:  UHVGHK
+Decrypted Plaintext:  RESDEH
+Decrypted Plaintext:  OBPABE
+Decrypted Plaintext:  LYMXYB
+Decrypted Plaintext:  IVJUVY
+Decrypted Plaintext:  FSGRSV
+Decrypted Plaintext:  CPDOPS
+Decrypted Plaintext:  ZMALMP
+Decrypted Plaintext:  WJXIJM
+Decrypted Plaintext:  TGUFGJ
+Decrypted Plaintext:  QDRCDG
+Decrypted Plaintext:  NAOZAD
+Decrypted Plaintext:  KXLWXA
+Decrypted Plaintext:  HUITUX
+Decrypted Plaintext:  ERFQRU
+Decrypted Plaintext:  BOCNOR
+Decrypted Plaintext:  YLZKLO
+Decrypted Plaintext:  VIWHIL
+Decrypted Plaintext:  SFTEFI
+Decrypted Plaintext:  PCQBCF
+Decrypted Plaintext:  MZNYZC
+Decrypted Plaintext:  JWKVWZ
+Decrypted Plaintext:  GTHSTW
+Decrypted Plaintext:  DQEPQT
+Decrypted Plaintext:  ANPYNG
+Decrypted Plaintext:  HUWFUN
+Decrypted Plaintext:  OBDMBU
+Decrypted Plaintext:  VIKTIB
+Decrypted Plaintext:  CPRAPI
+Decrypted Plaintext:  JWYHWP
+Decrypted Plaintext:  QDFODW
+Decrypted Plaintext:  XKMVKD
+Decrypted Plaintext:  ERTCRK
+Decrypted Plaintext:  LYAJYR
+Decrypted Plaintext:  SFHQFY
+Decrypted Plaintext:  ZMOXMF
+Decrypted Plaintext:  GTVETM
+Decrypted Plaintext:  NACLAT
+Decrypted Plaintext:  UHJSHA
+Decrypted Plaintext:  BOQZOH
+Decrypted Plaintext:  IVXGVO
+Decrypted Plaintext:  PCENCV
+Decrypted Plaintext:  WJLUJC
+Decrypted Plaintext:  DQSBQJ
+Decrypted Plaintext:  KXZIXQ
+Decrypted Plaintext:  REGPEX
+Decrypted Plaintext:  YLNWLE
+Decrypted Plaintext:  FSUDSL
+Decrypted Plaintext:  MZBKZS
+Decrypted Plaintext:  TGIRGZ
+Decrypted Plaintext:  ANLCNU
+Decrypted Plaintext:  TGEVGN
+Decrypted Plaintext:  MZXOZG
+Decrypted Plaintext:  FSQHSZ
+Decrypted Plaintext:  YLJALS
+Decrypted Plaintext:  RECTEL
+Decrypted Plaintext:  KXVMXE
+Decrypted Plaintext:  DQOFQX
+Decrypted Plaintext:  WJHYJQ
+Decrypted Plaintext:  PCARCJ
+Decrypted Plaintext:  IVTKVC
+Decrypted Plaintext:  BOMDOV
+Decrypted Plaintext:  UHFWHO
+Decrypted Plaintext:  NAYPAH
+Decrypted Plaintext:  GTRITA
+Decrypted Plaintext:  ZMKBMT
+Decrypted Plaintext:  SFDUFM
+Decrypted Plaintext:  LYWNYF
+Decrypted Plaintext:  ERPGRY
+Decrypted Plaintext:  XKIZKR
+Decrypted Plaintext:  QDBSDK
+Decrypted Plaintext:  JWULWD
+Decrypted Plaintext:  CPNEPW
+Decrypted Plaintext:  VIGXIP
+Decrypted Plaintext:  OBZQBI
+Decrypted Plaintext:  HUSJUB
+Decrypted Plaintext:  ANZONK
+Decrypted Plaintext:  DQCRQN
+Decrypted Plaintext:  GTFUTQ
+Decrypted Plaintext:  JWIXWT
+Decrypted Plaintext:  MZLAZW
+Decrypted Plaintext:  PCODCZ
+Decrypted Plaintext:  SFRGFC
+Decrypted Plaintext:  VIUJIF
+Decrypted Plaintext:  YLXMLI
+Decrypted Plaintext:  BOAPOL
+Decrypted Plaintext:  ERDSRO
+Decrypted Plaintext:  HUGVUR
+Decrypted Plaintext:  KXJYXU
+Decrypted Plaintext:  NAMBAX
+Decrypted Plaintext:  QDPEDA
+Decrypted Plaintext:  TGSHGD
+Decrypted Plaintext:  WJVKJG
+Decrypted Plaintext:  ZMYNMJ
+Decrypted Plaintext:  CPBQPM
+Decrypted Plaintext:  FSETSP
+Decrypted Plaintext:  IVHWVS
+Decrypted Plaintext:  LYKZYV
+Decrypted Plaintext:  OBNCBY
+Decrypted Plaintext:  REQFEB
+Decrypted Plaintext:  UHTIHE
+Decrypted Plaintext:  XKWLKH
+Decrypted Plaintext:  ANVSNY
+Decrypted Plaintext:  PCKHCN
+Decrypted Plaintext:  ERZWRC
+Decrypted Plaintext:  TGOLGR
+Decrypted Plaintext:  IVDAVG
+Decrypted Plaintext:  XKSPKV
+Decrypted Plaintext:  MZHEZK
+Decrypted Plaintext:  BOWTOZ
+Decrypted Plaintext:  QDLIDO
+Decrypted Plaintext:  FSAXSD
+Decrypted Plaintext:  UHPMHS
+Decrypted Plaintext:  JWEBWH
+Decrypted Plaintext:  YLTQLW
+Decrypted Plaintext:  NAIFAL
+Decrypted Plaintext:  CPXUPA
+Decrypted Plaintext:  REMJEP
+Decrypted Plaintext:  GTBYTE
+Decrypted Plaintext:  VIQNIT
+Decrypted Plaintext:  KXFCXI
+Decrypted Plaintext:  ZMURMX
+Decrypted Plaintext:  OBJGBM
+Decrypted Plaintext:  DQYVQB
+Decrypted Plaintext:  SFNKFQ
+Decrypted Plaintext:  HUCZUF
+Decrypted Plaintext:  WJROJU
+Decrypted Plaintext:  LYGDYJ
+Decrypted Plaintext:  ANTUNS
+Decrypted Plaintext:  VIOPIN
+Decrypted Plaintext:  QDJKDI
+Decrypted Plaintext:  LYEFYD
+Decrypted Plaintext:  GTZATY
+Decrypted Plaintext:  BOUVOT
+Decrypted Plaintext:  WJPQJO
+Decrypted Plaintext:  REKLEJ
+Decrypted Plaintext:  MZFGZE
+Decrypted Plaintext:  HUABUZ
+Decrypted Plaintext:  CPVWPU
+Decrypted Plaintext:  XKQRKP
+Decrypted Plaintext:  SFLMFK
+Decrypted Plaintext:  NAGHAF
+Decrypted Plaintext:  IVBCVA
+Decrypted Plaintext:  DQWXQV
+Decrypted Plaintext:  YLRSLQ
+Decrypted Plaintext:  TGMNGL
+Decrypted Plaintext:  OBHIBG
+Decrypted Plaintext:  JWCDWB
+Decrypted Plaintext:  ERXYRW
+Decrypted Plaintext:  ZMSTMR
+Decrypted Plaintext:  UHNOHM
+Decrypted Plaintext:  PCIJCH
+Decrypted Plaintext:  KXDEXC
+Decrypted Plaintext:  FSYZSX
+Decrypted Plaintext:  ANXQNE
+Decrypted Plaintext:  JWGZWN
+Decrypted Plaintext:  SFPIFW
+Decrypted Plaintext:  BOYROF
+Decrypted Plaintext:  KXHAXO
+Decrypted Plaintext:  TGQJGX
+Decrypted Plaintext:  CPZSPG
+Decrypted Plaintext:  LYIBYP
+Decrypted Plaintext:  UHRKHY
+Decrypted Plaintext:  DQATQH
+Decrypted Plaintext:  MZJCZQ
+Decrypted Plaintext:  VISLIZ
+Decrypted Plaintext:  ERBURI
+Decrypted Plaintext:  NAKDAR
+Decrypted Plaintext:  WJTMJA
+Decrypted Plaintext:  FSCVSJ
+Decrypted Plaintext:  OBLEBS
+Decrypted Plaintext:  XKUNKB
+Decrypted Plaintext:  GTDWTK
+Decrypted Plaintext:  PCMFCT
+Decrypted Plaintext:  YLVOLC
+Decrypted Plaintext:  HUEXUL
+Decrypted Plaintext:  QDNGDU
+Decrypted Plaintext:  ZMWPMD
+Decrypted Plaintext:  IVFYVM
+Decrypted Plaintext:  REOHEV
+Decrypted Plaintext:  ANRWNM
+Decrypted Plaintext:  BOSXON
+Decrypted Plaintext:  CPTYPO
+Decrypted Plaintext:  DQUZQP
+Decrypted Plaintext:  ERVARQ
+Decrypted Plaintext:  FSWBSR
+Decrypted Plaintext:  GTXCTS
+Decrypted Plaintext:  HUYDUT
+Decrypted Plaintext:  IVZEVU
+Decrypted Plaintext:  JWAFWV
+Decrypted Plaintext:  KXBGXW
+Decrypted Plaintext:  LYCHYX
+Decrypted Plaintext:  MZDIZY
+Decrypted Plaintext:  NAEJAZ
+Decrypted Plaintext:  OBFKBA
+Decrypted Plaintext:  PCGLCB
+Decrypted Plaintext:  QDHMDC
+Decrypted Plaintext:  REINED
+Decrypted Plaintext:  SFJOFE
+Decrypted Plaintext:  TGKPGF
+Decrypted Plaintext:  UHLQHG
+Decrypted Plaintext:  VIMRIH
+Decrypted Plaintext:  WJNSJI
+Decrypted Plaintext:  XKOTKJ
+Decrypted Plaintext:  YLPULK
+Decrypted Plaintext:  ZMQVML
+~$ sage B190670CS_Reuben_2_Enc.sage
+Enter the plaintext to be Encrypted: ACT
+Enter the size of the Hill key: 3
+Enter the Hill key: GYBNQKURP
+Encrypted Cyphertext:  POH
+~$ sage B190670CS_Reuben_2_Dec.sage
+Enter the Ciphertext to be Decrypted: POH
+Enter the size of the Hill key: 3
+Enter the Hill key: GYBNQKURP
+Decrypted Plaintext:  ACT
+~$ sage B190670CS_Reuben_2_Crypt.sage
+Enter the Plaintext: POH
+Enter the Ciphertext: ACT
+Cipher key: A
+~$ sage B190670CS_Reuben_3_Enc.sage
+Enter the plaintext to be Encrypted: Reuben
+Enter the value of key: 3
+Encrypted Cyphertext:  UHXEHQ
+~$ sage B190670CS_Reuben_3_Dec.sage
+Enter the Ciphertext to be Decrypted: UHXEHQ
+Enter the value of key: 3
+Decrypted Plaintext:  REUBEN
+~$ sage B190670CS_Reuben_3_Crypt.sage
+Enter the Ciphertext to be Decrypted: UHXEHQ
+Decrypted Plaintext:  UHXEHQ
+Decrypted Plaintext:  TGWDGP
+Decrypted Plaintext:  SFVCFO
+Decrypted Plaintext:  REUBEN
+Decrypted Plaintext:  QDTADM
+Decrypted Plaintext:  PCSZCL
+Decrypted Plaintext:  OBRYBK
+Decrypted Plaintext:  NAQXAJ
+Decrypted Plaintext:  MZPWZI
+Decrypted Plaintext:  LYOVYH
+Decrypted Plaintext:  KXNUXG
+Decrypted Plaintext:  JWMTWF
+Decrypted Plaintext:  IVLSVE
+Decrypted Plaintext:  HUKRUD
+Decrypted Plaintext:  GTJQTC
+Decrypted Plaintext:  FSIPSB
+Decrypted Plaintext:  ERHORA
+Decrypted Plaintext:  DQGNQZ
+Decrypted Plaintext:  CPFMPY
+Decrypted Plaintext:  BOELOX
+Decrypted Plaintext:  ANDKNW
+Decrypted Plaintext:  ZMCJMV
+Decrypted Plaintext:  YLBILU
+Decrypted Plaintext:  XKAHKT
+Decrypted Plaintext:  WJZGJS
+Decrypted Plaintext:  VIYFIR
+~$ sage B190670CS_Reuben_4_Enc.sage
+Enter the plaintext to be Encrypted: Reuben
+Enter the substitution key: qwertyuiopasdfghjklzxcvbnm
+Encrypted Cyphertext:  KTXWTF
+~$ sage B190670CS_Reuben_4_Dec.sage
+Enter the Ciphertext to be Decrypted: KTXWTF
+Enter the substitution key: qwertyuiopasdfghjklzxcvbnm
+Decrypted Plaintext:  REUBEN
+~$ sage B190670CS_Reuben_4_Crypt.sage
+Enter the Plaintext: REUBEN
+Enter the Ciphertext: KTXWTF
+Cipher key: fwfftffffffffffffkffxfffff
+~$ sage B190670CS_Reuben_5_Enc.sage
+Enter the plaintext to be Encrypted: Reuben Suju
+Enter the Transposition key: HACK
+Encrypted Cyphertext:  ENUUSZREJBUZ
+~$ sage B190670CS_Reuben_5_Dec.sage
+Enter the Ciphertext to be Decrypted: ENUUSZREJBUZ
+Enter the Transposition key: HACK
+Decrypted Plaintext:  REUBENSUJUZZ
+~$ sage B190670CS_Reuben_5_Crypt.sage
+Enter the Plaintext: REUBENSUJUZZ
+Enter the Ciphertext: ENUUSZREJBUZ
+Cipher key: 3124
+~$ sage B190670CS_Reuben_6_Enc.sage
+Enter the plaintext to be Encrypted: Reuben Suju
+Enter the Vigenere key: HACK
+Encrypted Cyphertext:  YEWLLNUEQU
+~$ sage B190670CS_Reuben_6_Dec.sage
+Enter the Ciphertext to be Decrypted: YEWLLNUEQU
+Enter the Vigenere key: HACK
+Decrypted Plaintext:  REUBENSUJU
+~$ sage B190670CS_Reuben_6_Crypt.sage
+Enter the Plaintext: REUBENSUJU
+Enter the Ciphertext: YEWLLNUEQU
+HACK
+~$ 
